@@ -1,0 +1,80 @@
+h1 {
+	font-family: Cambria,Georgia,serif;
+	font-size: 30px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	text-align: center;
+	line-height: 26.4px;
+	color: #343434;
+}
+h3 {
+	font-family: Cambria,Georgia,serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+	color: #343434;
+}
+h4{
+	font-family: Cambria,Georgia,serif;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+	color: #343434;
+}
+p {
+	font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 1.15;
+	color: #343434;
+	margin: auto;
+}
+blockquote {
+	font-family: Cambria,Georgia,serif;
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+	font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 1.15;
+	color: #343434;
+}
+#home .entry-wrapper, #page .entry-wrapper {
+	max-width: 900px;
+}
+
+figure img {
+    float: left;
+    margin-right: 1.25em;
+    height: 200px;
+    width: 150px;
+    padding: 1px;
+    background: #FFF none repeat scroll 0% 0%;
+}
+
+.site-logo img {
+
+margin: 0px;
+padding: 0px;
+border: medium none;
+width: 1167px;
+height: 119px;
+max-height: none;
+max-width: none;
+z-index: -999999;
+left: 0px;
+}
