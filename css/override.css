@@ -53,6 +53,9 @@ pre {
 	line-height: 1.15;
 	color: #343434;
 }
+hr {
+	border-color: #000000;
+}
 #home .entry-wrapper, #page .entry-wrapper {
 	max-width: 900px;
 }
